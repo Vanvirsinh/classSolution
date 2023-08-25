@@ -28,7 +28,7 @@
 			</button>
 
 			<!-- lOGO TEXT HERE -->
-			<a href="/" class="navbar-brand">Class Solution</a>
+			<a href="#" class="navbar-brand">Class Solution</a>
 		</div>
 
 		<!-- MENU LINKS -->
@@ -96,7 +96,7 @@
 							<li><a href="#about">About</a></li>
 							<li><a href="#services">Services</a></li>
 							<li><a href="#testimonial">Testimonial</a></li>
-							<li><a href="contact">Contact</a></li>
+							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</div>
 				</div>
